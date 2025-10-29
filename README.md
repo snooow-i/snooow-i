@@ -1,16 +1,40 @@
-## Hi there 👋
+### Olá, eu sou o Guilherme Eduardo! 👋
 
-<!--
-**snooow-i/snooow-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/LmN8IPBmdGTs4/giphy.gif" width="300">
+</p>
 
-Here are some ideas to get you started:
+Sou estudante de **Sistemas de Informação** na Universidade Estadual de Goiás (UEG), apaixonado por tecnologia e focado em construir uma carreira sólida em **Desenvolvimento Back-end** e **Cibersegurança**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minha jornada acadêmica me deu uma base robusta em lógica e algoritmos, principalmente com `C`, onde me aprofundei em Estruturas de Dados como Árvores Binárias e Grafos. Ao mesmo tempo, busco aplicar esse conhecimento em projetos práticos com `Java`, e explorar o mundo da segurança ofensiva por hobby.
+
+---
+
+### 🌱 Meus Focos Atuais
+
+Atualmente, estou dedicando meu tempo para:
+* Aprofundar meus conhecimentos no ecossistema **Java**, incluindo `Spring Boot`.
+* Aprofundar meus conhecimentos em **Ethical Hacking** e **Linux**, praticando ativamente em plataformas como [OverTheWire](https://overthewire.org/wargames/), [TryHackMe](https://tryhackme.com/) e [Hack The Box](https://www.hackthebox.com/).
+* Expandir meu conhecimento em desenvolvimento full-stack através do [The Odin Project](https://www.theodinproject.com/).
+
+---
+
+### 💻 Meu Stack de Tecnologias
+
+Aqui estão algumas das tecnologias e conceitos com os quais tenho trabalhado:
+
+| Categoria | Tecnologias e Conceitos |
+| :--- | :--- |
+| **Linguagens (Core)** | `Java`, `C` |
+| **Banco de Dados** | `PostgreSQL` |
+| **Web (Front-end)** | `HTML`, `CSS`, `JavaScript` |
+| **Conceitos** | `Estruturas de Dados`, `Algoritmos`, `Programação Orientada a Objetos` |
+| **Ferramentas e OS** | `Windows`, `Linux (CLI)`, `WSL2`, `Git` |
+
+---
+
+### 🚀 Meus Interesses
+
+* **Desenvolvimento Back-end:** Meu principal foco de carreira. Gosto de construir a lógica e a arquitetura de sistemas robustos e escaláveis.
+* **Cyber Security:** Um hobby e interesse, com foco em análise de vulnerabilidades, Ethical Hacking e Bug Bounty.
+* **IA & Machine Learning:** Uma área que estou explorando e tenho muito interesse.
