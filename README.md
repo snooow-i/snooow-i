@@ -1,10 +1,10 @@
 ### Olá, eu sou o Guilherme Eduardo! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmN8IPBmdGTs4/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/qgQUggACmCgKY/giphy.gif" width="300">
 </p>
 
-Sou estudante de **Sistemas de Informação** na Universidade Estadual de Goiás (UEG), apaixonado por tecnologia e focado em construir uma carreira sólida em **Desenvolvimento Back-end** e **Cibersegurança**.
+Sou estudante de **Sistemas de Informação** na Universidade Estadual de Goiás (UEG), apaixonado por tecnologia e focado em construir uma carreira sólida em **Desenvolvimento Back-end**.
 
 Minha jornada acadêmica me deu uma base robusta em lógica e algoritmos, principalmente com `C`, onde me aprofundei em Estruturas de Dados como Árvores Binárias e Grafos. Ao mesmo tempo, busco aplicar esse conhecimento em projetos práticos com `Java`, e explorar o mundo da segurança ofensiva por hobby.
 
