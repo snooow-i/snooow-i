@@ -1,7 +1,7 @@
 ### Olá, eu sou o Guilherme Eduardo! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggACmCgKY/giphy.gif" width="300">
+  <img src="[https://media.giphy.com/media/qgQUggACmCgKY/giphy.gif]" width="300">
 </p>
 
 Sou estudante de **Sistemas de Informação** na Universidade Estadual de Goiás (UEG), apaixonado por tecnologia e focado em construir uma carreira sólida em **Desenvolvimento Back-end**.
