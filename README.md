@@ -1,8 +1,5 @@
 ### Olá, eu sou o Guilherme Eduardo! 👋
 
-![code](https://github.com/user-attachments/assets/46654f2a-f05a-4e43-ae59-dfead37e54c0)
-
-
 Sou estudante de **Sistemas de Informação** na Universidade Estadual de Goiás (UEG), apaixonado por tecnologia e focado em construir uma carreira sólida em **Desenvolvimento Back-end**.
 
 Minha jornada acadêmica me deu uma base robusta em lógica e algoritmos, principalmente com `C`, onde me aprofundei em Estruturas de Dados como Árvores Binárias e Grafos. Ao mesmo tempo, busco aplicar esse conhecimento em projetos práticos com `Java`, e explorar o mundo da segurança ofensiva por hobby.
@@ -36,4 +33,5 @@ Aqui estão algumas das tecnologias e conceitos com os quais tenho trabalhado:
 
 * **Desenvolvimento Back-end:** Meu principal foco de carreira. Gosto de construir a lógica e a arquitetura de sistemas robustos e escaláveis.
 * **Cyber Security:** Um hobby e interesse, com foco em análise de vulnerabilidades, Ethical Hacking e Bug Bounty.
-* **IA & Machine Learning:** Uma
+* **IA & Machine Learning:** Uma área que estou explorando e tenho muito interesse.
+
