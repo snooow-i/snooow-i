@@ -1,7 +1,7 @@
 ### Olá, eu sou o Guilherme Eduardo! 👋
 
 <p align="center">
-<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" width="300">
 </p>
 
 Sou estudante de **Sistemas de Informação** na Universidade Estadual de Goiás (UEG), apaixonado por tecnologia e focado em construir uma carreira sólida em **Desenvolvimento Back-end**.
@@ -37,4 +37,4 @@ Aqui estão algumas das tecnologias e conceitos com os quais tenho trabalhado:
 
 * **Desenvolvimento Back-end:** Meu principal foco de carreira. Gosto de construir a lógica e a arquitetura de sistemas robustos e escaláveis.
 * **Cyber Security:** Um hobby e interesse, com foco em análise de vulnerabilidades, Ethical Hacking e Bug Bounty.
-* **IA & Machine Learning:** Uma área que estou explorando e tenho muito interesse.
+* **IA & Machine Learning:** Uma
