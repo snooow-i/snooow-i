@@ -21,11 +21,18 @@ Aqui estão algumas das tecnologias e conceitos com os quais tenho trabalhado:
 
 | Categoria | Tecnologias e Conceitos |
 | :--- | :--- |
-| **Linguagens (Core)** | `Java`, `C` |
-| **Banco de Dados** | `PostgreSQL` |
+| **Linguagens (Core)** | `Java`, `C`, `Python` |
+| **Banco de Dados** | `PostgreSQL`, `SQL`, `MySQL`, `Neo4j` |
 | **Web (Front-end)** | `HTML`, `CSS`, `JavaScript` |
 | **Conceitos** | `Estruturas de Dados`, `Algoritmos`, `Programação Orientada a Objetos` |
 | **Ferramentas e OS** | `Windows`, `Linux (CLI)`, `WSL2`, `Git` |
+
+---
+
+### 🌍 Meus Idiomas
+
+* Português (Nativo)
+* Inglês (Avançado)
 
 ---
 
@@ -34,4 +41,52 @@ Aqui estão algumas das tecnologias e conceitos com os quais tenho trabalhado:
 * **Desenvolvimento Back-end:** Meu principal foco de carreira. Gosto de construir a lógica e a arquitetura de sistemas robustos e escaláveis.
 * **Cyber Security:** Um hobby e interesse, com foco em análise de vulnerabilidades, Ethical Hacking e Bug Bounty.
 * **IA & Machine Learning:** Uma área que estou explorando e tenho muito interesse.
+
+
+### ENGLISH VERSION 🇺🇸 🇬🇧
+
+
+### Hi, I'm Guilherme Eduardo! 👋
+
+I am an **Information Systems** student at the State University of Goiás (UEG), passionate about technology and focused on building a solid career in **Back-end Development**.
+
+My academic journey has given me a strong foundation in logic and algorithms, primarily with `C`, where I delved into Data Structures like Binary Trees and Graphs. At the same time, I am applying this knowledge to practical projects with `Java` and exploring the world of offensive security as a hobby.
+
+---
+
+### 🌱 My Current Focus
+
+I am currently dedicating my time to:
+* Deepening my knowledge in the **Java** ecosystem, including `Spring Boot`.
+* Deepening my knowledge in **Ethical Hacking** and **Linux**, actively practicing on platforms like [OverTheWire](https://overthewire.org/wargames/), [TryHackMe](https://tryhackme.com/), and [Hack The Box](https://www.hackthebox.com/).
+* Expanding my knowledge in full-stack development through [The Odin Project](https://www.theodinproject.com/).
+
+---
+
+### 💻 My Tech Stack
+
+Here are some of the technologies and concepts I've been working with:
+
+| Category | Technologies and Concepts |
+| :--- | :--- |
+| **Languages (Core)** | `Java`, `C`, `Python` |
+| **Databases** | `PostgreSQL`, `SQL`, `MySQL`, `Neo4j` |
+| **Web (Front-end)** | `HTML`, `CSS`, `JavaScript` |
+| **Concepts** | `Data Structures`, `Algorithms`, `Object-Oriented Programming` |
+| **Tools & OS** | `Windows`, `Linux (CLI)`, `WSL2`, `Git` |
+
+---
+
+### 🌍 My Languages
+
+* Portuguese (Native)
+* English (Advanced)
+
+---
+
+### 🚀 My Interests
+
+* **Back-end Development:** My main career focus. I enjoy building the logic and architecture of robust and scalable systems.
+* **Cyber Security:** A hobby and interest, with a focus on vulnerability analysis, Ethical Hacking, and Bug Bounty.
+* **AI & Machine Learning:** An area I am exploring and have a strong interest in.
 
