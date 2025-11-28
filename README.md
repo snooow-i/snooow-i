@@ -21,11 +21,11 @@ Aqui estão algumas das tecnologias e conceitos com os quais tenho trabalhado:
 
 | Categoria | Tecnologias e Conceitos |
 | :--- | :--- |
-| **Linguagens (Core)** | `Java`, `C`, `Python` |
+| **Back-end** | `Java`, `C`, `Python` |
 | **Banco de Dados** | `PostgreSQL`, `SQL`, `MySQL`, `Neo4j` |
-| **Web (Front-end)** | `HTML`, `CSS`, `JavaScript` |
+| **Front-end** | `HTML`, `CSS`, `JavaScript` |
 | **Conceitos** | `Estruturas de Dados`, `Algoritmos`, `Programação Orientada a Objetos` |
-| **Ferramentas e OS** | `Windows`, `Linux (CLI)`, `WSL2`, `Git` |
+| **Ferramentas e OS** | `Windows`, `Linux (CLI)`, `WSL2`, `Git`, `VScode`, `Jira`, `Bizagi Modeler`|
 
 ---
 
@@ -69,11 +69,11 @@ Here are some of the technologies and concepts I've been working with:
 
 | Category | Technologies and Concepts |
 | :--- | :--- |
-| **Languages (Core)** | `Java`, `C`, `Python` |
+| **Back-end** | `Java`, `C`, `Python` |
 | **Databases** | `PostgreSQL`, `SQL`, `MySQL`, `Neo4j` |
-| **Web (Front-end)** | `HTML`, `CSS`, `JavaScript` |
+| **Front-end** | `HTML`, `CSS`, `JavaScript` |
 | **Concepts** | `Data Structures`, `Algorithms`, `Object-Oriented Programming` |
-| **Tools & OS** | `Windows`, `Linux (CLI)`, `WSL2`, `Git` |
+| **Tools & OS** | `Windows`, `Linux (CLI)`, `WSL2`, `Git`, `VScode`, `Jira`, `Bizagi Modeler`|
 
 ---
 
