@@ -1,14 +1,79 @@
 ### Olá, eu sou o Guilherme Eduardo! 👋
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/guilherme-eduardo-deus" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:gededeus@email.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</div>
+
 Sou estudante de **Sistemas de Informação** na Universidade Estadual de Goiás (UEG), apaixonado por tecnologia e focado em construir uma carreira sólida em **Desenvolvimento Back-end**.
 
 Minha jornada acadêmica me deu uma base robusta em lógica e algoritmos, principalmente com `C`, onde me aprofundei em Estruturas de Dados como Árvores Binárias e Grafos. Ao mesmo tempo, busco aplicar esse conhecimento em projetos práticos com `Java`, e explorar o mundo da segurança ofensiva por hobby.
 
 ---
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=httpSnooow&layout=compact&theme=dark)
+<div align="center">
+  <a href="https://github.com/httpSnooow">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=httpSnooow&layout=compact&theme=dark"/>
+  </a>
+</div>
 
+### 💻 Meu Stack de Tecnologias
 
+**Back-end Development**
+<br>
+<div align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+</div>
+
+**Banco de dados**
+<br>
+<div align="left">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+
+**Front-end**
+<br>
+<div align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+</div>
+
+**Sistemas Operacionais**
+<br>
+<div align="left">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+**Ferramentas**
+<br>
+<div align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bizagi_Modeler-005696?style=for-the-badge&logoColor=white" />
+</div>
+
+**Conceitos & Fundamentos**
+<br>
+<div align="left">
+  <img src="https://img.shields.io/badge/Estrutura%20de%20Dados-gray?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algoritmos-gray?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Programação%20Orientada%20a%20Objetos-gray?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design%20Patterns-gray?style=for-the-badge" />
+</div>
 
 ### 🌱 Meus Focos Atuais
 
@@ -16,20 +81,6 @@ Atualmente, estou dedicando meu tempo para:
 * Aprofundar meus conhecimentos no ecossistema **Java**, incluindo `Spring Boot`.
 * Aprofundar meus conhecimentos em **Ethical Hacking** e **Linux**, praticando ativamente em plataformas como [OverTheWire](https://overthewire.org/wargames/), [TryHackMe](https://tryhackme.com/) e [Hack The Box](https://www.hackthebox.com/).
 * Expandir meu conhecimento em desenvolvimento full-stack através do [The Odin Project](https://www.theodinproject.com/).
-
----
-
-### 💻 Meu Stack de Tecnologias
-
-Aqui estão algumas das tecnologias e conceitos com os quais tenho trabalhado:
-
-| Categoria | Tecnologias e Conceitos |
-| :--- | :--- |
-| **Back-end** | `Java`, `C`, `Python` |
-| **Banco de Dados** | `PostgreSQL`, `SQL`, `MySQL`, `Neo4j` |
-| **Front-end** | `HTML`, `CSS`, `JavaScript` |
-| **Conceitos** | `Estruturas de Dados`, `Algoritmos`, `Programação Orientada a Objetos` |
-| **Ferramentas e OS** | `Windows`, `Linux (CLI)`, `WSL2`, `Git`, `VScode`, `Jira`, `Bizagi Modeler`|
 
 ---
 
@@ -47,7 +98,8 @@ Aqui estão algumas das tecnologias e conceitos com os quais tenho trabalhado:
 * **IA & Machine Learning:** Uma área que estou explorando e tenho muito interesse.
 
 
-### ENGLISH VERSION 🇺🇸 🇬🇧
+<details>
+<summary><b>🇺🇸 English Version (Click to Expand)</b></summary>
 
 
 ### Hi, I'm Guilherme Eduardo! 👋
@@ -73,7 +125,7 @@ Here are some of the technologies and concepts I've been working with:
 
 | Category | Technologies and Concepts |
 | :--- | :--- |
-| **Back-end** | `Java`, `C`, `Python` |
+| **Back-end** | `Java`, `C`, `C++`, `Python` |
 | **Databases** | `PostgreSQL`, `SQL`, `MySQL`, `Neo4j` |
 | **Front-end** | `HTML`, `CSS`, `JavaScript` |
 | **Concepts** | `Data Structures`, `Algorithms`, `Object-Oriented Programming` |
