@@ -6,6 +6,10 @@ Minha jornada acadêmica me deu uma base robusta em lógica e algoritmos, princi
 
 ---
 
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=httpSnooow&layout=compact&theme=dark)
+
+
+
 ### 🌱 Meus Focos Atuais
 
 Atualmente, estou dedicando meu tempo para:
