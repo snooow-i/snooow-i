@@ -1,4 +1,4 @@
-### Olá, eu sou o Guilherme Eduardo! 👋
+### Olá, eu sou Guilherme Eduardo! 👋
 
 <div align="left">
   <a href="https://www.linkedin.com/in/guilherme-eduardo-deus" target="_blank">
