@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/guilherme-eduardo-deus" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" target="_blank" />
   </a>
-  <a href="mailto:gededeus@email.com">
+  <a href="mailto:gededeus@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
