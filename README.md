@@ -77,6 +77,7 @@ Minha jornada acadêmica me deu uma base robusta em lógica e algoritmos, princi
 ### 🌱 Meus Focos Atuais
 
 Atualmente, estou dedicando meu tempo para:
+* Aprender **C++** para `Programação competitiva` e `Leetcode`.
 * Aprofundar meus conhecimentos no ecossistema **Java**, incluindo `Spring Boot`.
 * Aprofundar meus conhecimentos em **Ethical Hacking** e **Linux**, praticando ativamente em plataformas como [OverTheWire](https://overthewire.org/wargames/), [TryHackMe](https://tryhackme.com/) e [Hack The Box](https://www.hackthebox.com/).
 * Expandir meu conhecimento em desenvolvimento full-stack através do [The Odin Project](https://www.theodinproject.com/).
