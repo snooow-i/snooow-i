@@ -68,9 +68,9 @@ My academic journey has given me a strong foundation in logic and algorithms, pr
 **Concepts**
 <br>
 <div align="left">
-  <img src="https://img.shields.io/badge/Estrutura%20de%20Dados-gray?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algoritmos-gray?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Programação%20Orientada%20a%20Objetos-gray?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Structures-gray?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-gray?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-gray?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Design%20Patterns-gray?style=for-the-badge" />
 </div>
 
