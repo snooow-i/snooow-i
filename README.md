@@ -103,7 +103,7 @@ My academic journey has given me a strong foundation in logic and algorithms, pr
 ### Olá, eu sou o Guilherme Eduardo! 👋
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/guilherme-eduardo-deus" target="_blank">
+  <a href="https://www.linkedin.com/in/gedo" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gededeus@gmail.com" target="_blank">
