@@ -11,10 +11,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-> *"Security is not a product, but a process."* — Bruce Schneier
-
 I'm an **Information Systems** student at **Goiás State University (UEG)** with a dual passion: building robust, scalable backend systems and breaking them to make them stronger.
 
 I bridge the gap between **Software Engineering** and **Cybersecurity**, ensuring that the code I write is not just functional, but secure by design.
