@@ -2,7 +2,7 @@
 # Hi there, I'm Guilherme Eduardo! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=50FA7B&center=true&vCenter=true&width=435&lines=Software+Engineer;Cybersecurity+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=50FA7B&center=true&vCenter=true&width=435&lines=Software+Engineer;Cybersecurity+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -75,8 +75,9 @@ I bridge the gap between **Software Engineering** and **Cybersecurity**, ensurin
   <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-gray?style=for-the-badge" />
 </div>
 
-### Tools
+### Tools & DevOps
 <div align="left">
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
