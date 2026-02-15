@@ -1,11 +1,7 @@
 
 # Hi there, I'm Guilherme Eduardo! 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=50FA7B&center=true&vCenter=true&width=435&lines=Software+Engineer;Cybersecurity+Enthusiast" alt="Typing SVG" />
-</div>
-
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/gedo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   <a href="mailto:gededeus@gmail.com">
@@ -20,8 +16,6 @@
 > *"Security is not a product, but a process."* — Bruce Schneier
 
 I'm an **Information Systems** student at **Goiás State University (UEG)** with a dual passion: building robust, scalable backend systems and breaking them to make them stronger.
-
-My journey is driven by a deep curiosity about how things work under the hood. I have a strong foundation in **C++** from competitive programming and deep expertise in the **Java/Spring** ecosystem for enterprise development. Simultaneously, I am advancing my skills in **Offensive Security** (Ethical Hacking/Bug Bounty), holding a **C1 Advanced English Certification (EF SET)**.
 
 I bridge the gap between **Software Engineering** and **Cybersecurity**, ensuring that the code I write is not just functional, but secure by design.
 
