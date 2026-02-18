@@ -67,7 +67,7 @@ I bridge the gap between **Software Engineering** and **Cybersecurity**, ensurin
 
 ### Tools & DevOps
 <div align="left">
-  <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -105,12 +105,17 @@ I bridge the gap between **Software Engineering** and **Cybersecurity**, ensurin
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=httpSnooow&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=httpSnooow&layout=compact&theme=dark"/>
-  <br>
-</div>
+
+<table width="100%" border="0">
+  <tr>
+    <td width="51%" align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=httpSnooow&show_icons=true&theme=dark" width="100%" />
+    </td>
+    <td width="49%" align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=httpSnooow&layout=compact&theme=dark" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
