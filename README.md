@@ -23,59 +23,28 @@ I bridge the gap between **Software Engineering** and **Cybersecurity**, ensurin
   <img src="https://img.shields.io/badge/Neo4j-Certified_Professional-018BFF?style=for-the-badge&logo=neo4j&logoColor=white" />
 </div>
 
----
-
 ## 🛠️ Tech Stack
 
-### Back-end Development
 <div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</div>
 
-### Databases
-<div align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white" />
-</div>
+<img src="https://img.shields.io/badge/Back--end:-000?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<br/>
 
-### Front-end
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
-</div>
+<img src="https://img.shields.io/badge/Databases:-000?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white" />
+<br/>
 
-### Cybersecurity & Networks
-<div align="left">
-  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-</div>
+<img src="https://img.shields.io/badge/Front--end:-000?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
+<br/>
 
-### Fundamentals
-<div align="left">
-  <img src="https://img.shields.io/badge/Data_Structures-gray?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algorithms-gray?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Design_Patterns-gray?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-gray?style=for-the-badge" />
-</div>
+<img src="https://img.shields.io/badge/CyberSecurity:-000?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=target&logoColor=white" /> <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<br/>
 
-### Tools & DevOps
-<div align="left">
-  <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</div>
+<img src="https://img.shields.io/badge/DevOps_&_Tools:-000?style=for-the-badge&logoColor=white" /> <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<br/>
 
----
+<img src="https://img.shields.io/badge/Concepts:-000?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Data_Structures-gray?style=for-the-badge" /> <img src="https://img.shields.io/badge/Algorithms-gray?style=for-the-badge" /> <img src="https://img.shields.io/badge/Design_Patterns-gray?style=for-the-badge" /> <img src="https://img.shields.io/badge/Object_Oriented_Programming-gray?style=for-the-badge" />
+
+</div>
 
 ### 🌍 My Languages
 
