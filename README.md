@@ -1,7 +1,7 @@
 
 # Hi there, I'm Guilherme Eduardo! 👋
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/gedo" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn"/>
   <a href="mailto:gededeus@gmail.com">
